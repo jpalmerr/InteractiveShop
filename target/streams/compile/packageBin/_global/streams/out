@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/target/scala-2.13/shopchallenge_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/target/scala-2.13/classes/ShoppingApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/target/scala-2.13/classes/ShoppingService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AppUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/target/scala-2.13/classes/AppUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingService$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/target/scala-2.13/classes/ShoppingService$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/target/scala-2.13/classes/ShoppingApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/target/scala-2.13/classes/model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/ShopProduct$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/target/scala-2.13/classes/model/ShopProduct$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/Cart$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/target/scala-2.13/classes/model/Cart$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/ShopProduct.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/target/scala-2.13/classes/model/ShopProduct.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/ShopProducts.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/target/scala-2.13/classes/model/ShopProducts.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/ShopProducts$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/target/scala-2.13/classes/model/ShopProducts$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/Cart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/target/scala-2.13/classes/model/Cart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AppUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/target/scala-2.13/classes/AppUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

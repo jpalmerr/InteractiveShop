@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ShoppingServiceSpec, org.scalatest.tools.Framework$$anon$1@3fddd62c, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mShoppingServiceSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mShoppingSpecService[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate a unique CartId when the store is empty[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate a unique CartId when the store already contains some ids[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should create a cart and add it to the cartStore[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should retrieve a cart by ID from the cartStore[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should safely handle when cart not present[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should add items to the cart and update the item quantity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should update the quantity of an existing item in the cart[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should add a new product to the cart[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should remove an item from the cart[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should remove an item from the cart whilst leaving other items in the cart[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should delete a cart from the cartStore[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should delete a cart from the cartStore whilst leaving other carts in the cart store[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should mark a cart as checked out[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not affect the items in the cart when marking as checked out[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the total price for a cart with one product[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the total price for a cart with multiple products[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 0 for an empty cart[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 503 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 17[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 17, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingServiceSpec[0m
