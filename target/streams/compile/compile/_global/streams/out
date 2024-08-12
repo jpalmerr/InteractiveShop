@@ -1,6 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/jamepalm/Scala/ScalaRepos/interviews/shopChallenge/src/main/scala/ShoppingService.scala:49:39: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : Product[0m
-[0m[[0m[31merror[0m] [0m[0m required: model.ShopProduct[0m
-[0m[[0m[31merror[0m] [0m[0m    IO(cart.copy(items = cart.items - product))[0m
-[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
