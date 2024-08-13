@@ -29,7 +29,7 @@ Exiting the program...
 [success] Total time: 151 s (02:31), completed 12 Aug 2024, 9:30:35 pm
 ```
 
-Didn't get round to implementing an interface to remove items or delete a cart, but it could have followed a similar pattern.
+Didn't get round to implementing an interface to add/remove items or delete a cart, but it could have followed a similar pattern.
 These capabilities are there, and are covered in the unit tests.
 
 To run the tests run `sbt test`

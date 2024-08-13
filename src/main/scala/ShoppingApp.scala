@@ -6,6 +6,9 @@ import model.ShopProducts.availableProducts
 
 import scala.util.{Random, Try}
 
+
+// todo add to cart
+// todo: rm from cart
 object ShoppingApp extends IOApp.Simple {
 
   val shoppingService = new ShoppingService()
